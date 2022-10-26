@@ -16,6 +16,7 @@ Inicio
       escreva("Digite o peso: ")
       leia(peso)
       
+      
       escreva("Nome: " + nome + " Altura: " , altura , "mts Peso: " , peso , "Kg")
 
 Fimalgoritmo

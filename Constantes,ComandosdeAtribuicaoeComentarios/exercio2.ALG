@@ -19,4 +19,5 @@ Inicio
 
       escreva("Nome: " + nome + " Altura: " , altura , "mts Peso: " , peso , "Kg IMC: ", (peso / (altura * altura)))
 
+
 Fimalgoritmo
