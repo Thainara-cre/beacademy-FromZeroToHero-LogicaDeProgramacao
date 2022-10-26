@@ -8,6 +8,7 @@ Var
 nome: caractere
 peso: real
 altura: real
+
 Inicio
       escreva("Digite o nome: ")
       leia(nome)
@@ -15,8 +16,8 @@ Inicio
       leia(altura)
       escreva("Digite o peso: ")
       leia(peso)
-      
-      
+
+
       escreva("Nome: " + nome + " Altura: " , altura , "mts Peso: " , peso , "Kg")
 
 Fimalgoritmo
