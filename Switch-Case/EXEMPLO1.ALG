@@ -1,4 +1,6 @@
 Algoritmo "exemplo1"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 Var
    numero1, numero2: REAL
